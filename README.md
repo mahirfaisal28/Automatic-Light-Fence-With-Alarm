@@ -1,0 +1,2 @@
+The project is based on purely analog components like op-amp transistor resistors capacitors and other equipment. The project construction of automatic light fence with alarm has been done primarily as a photo type design it could be further modified suit the situation where it will be used. This project will help us to upgrade our security system and show us a basic application of analog circuit using op-amp & 555 timer.
+Components
